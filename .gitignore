@@ -1,0 +1,18 @@
+# Залежності
+node_modules/
+client/node_modules/
+
+# Змінні середовища (там пароль!)
+.env
+
+# Файли збірки
+dist/
+client/dist/
+
+# Логи
+*.log
+npm-debug.log*
+
+# Системні файли
+.DS_Store
+Thumbs.db
